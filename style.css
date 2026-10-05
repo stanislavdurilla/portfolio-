@@ -195,3 +195,6 @@ footer.site {
   .about { grid-template-columns: 1fr; }
   .hero { padding: 54px 0 40px; }
 }
+
+/* ---- Sources ---- */
+.article-body .sources { font-size: 0.86rem; color: var(--muted); line-height: 1.7; }
